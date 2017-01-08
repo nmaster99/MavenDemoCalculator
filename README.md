@@ -1,0 +1,2 @@
+# MavenDemoCalculator
+Calculator with Maven
