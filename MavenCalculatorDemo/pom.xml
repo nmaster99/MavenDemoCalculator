@@ -32,4 +32,19 @@
       </dependencies>
     </profile>
   </profiles>
+  
+    <build>
+  	<plugins>
+  		<plugin>
+  			<artifactId>maven-jar-plugin</artifactId>
+  			<configuration>
+  				<archive>
+  					<manifest>
+  						<mainClass>ch.bbw.CalculatorApp</mainClass>
+  					</manifest>
+  				</archive>
+  			</configuration>
+  		</plugin>
+  	</plugins>
+  </build>
 </project>

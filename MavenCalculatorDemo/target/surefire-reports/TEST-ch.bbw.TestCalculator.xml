@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="ch.bbw.TestCalculator" time="0.004" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="ch.bbw.TestCalculator" time="0.006" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\bin"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Workspace426\MavenCalculatorDemo"/>
+    <property name="user.dir" value="C:\Users\IBM_ADMIN\git\MavenDemoCalculator\MavenCalculatorDemo"/>
     <property name="java.runtime.version" value="1.8.0_40-b26"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Workspace426\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3862560505809072170.tmp"/>
+    <property name="classworlds.conf" value="C:\Workspace426\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5271557208693509869.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Users/IBM_ADMIN/Desktop/others/Eclipse/eclipse_luna_SR2_java/jre/bin/server;C:/Users/IBM_ADMIN/Desktop/others/Eclipse/eclipse_luna_SR2_java/jre/bin;C:/Users/IBM_ADMIN/Desktop/others/Eclipse/eclipse_luna_SR2_java/jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\IBM\Infoprint Select;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\13.0\DLLShared\;C:\Program Files (x86)\IBM\Personal Communications\;C:\Program Files (x86)\IBM\Trace Facility\;C:\Program Files\OpenVPN\bin;C:\Program Files\ibm\gsk8\lib64;C:\Program Files (x86)\ibm\gsk8\lib;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -53,7 +53,7 @@
     <property name="java.ext.dirs" value="C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\resources.jar;C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\rt.jar;C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\sunrsasign.jar;C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\jsse.jar;C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\jce.jar;C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\charsets.jar;C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\lib\jfr.jar;C:\Users\IBM_ADMIN\Desktop\others\Eclipse\eclipse_luna_SR2_java\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Workspace426\MavenCalculatorDemo\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\IBM_ADMIN\git\MavenDemoCalculator\MavenCalculatorDemo\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -61,7 +61,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ch.bbw.TestCalculator" name="testSummeZweiPositive" time="0.004"/>
+  <testcase classname="ch.bbw.TestCalculator" name="testSummeZweiPositive" time="0.006"/>
   <testcase classname="ch.bbw.TestCalculator" name="testSummeZweiNegative" time="0"/>
   <testcase classname="ch.bbw.TestCalculator" name="testSummeZweiNull" time="0"/>
 </testsuite>
